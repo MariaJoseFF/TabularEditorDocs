@@ -7,6 +7,10 @@ applies_to:
   versions:
     - version: 2.x
     - version: 3.x
+  editions:
+    - edition: Desktop
+    - edition: Business
+    - edition: Enterprise
 ---
 # Common features
 
