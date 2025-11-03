@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/te3/other/release-notes",
-      "redirect": "/te3/other/release-notes/3_19_0.html",
+      "redirect": "/te3/other/release-notes/3_24_0.html",
       "statusCode": 302
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "route": "/Advanced-Scripting.html",
-      "redirect": "/te3/features/csharp-scripts.html",
+      "redirect": "/te2/Advanced-Scripting.html",
       "statusCode": 301
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "route": "/roslyn",
-      "redirect": "/te3/features/roslyn.html",
+      "redirect": "/te2/Advanced-Scripting.html#compiling-with-roslyn",
       "statusCode": 301
     },
     {
@@ -58,6 +58,11 @@
     {
       "route": "/Workspace-Database.html",
       "redirect": "/te3/tutorials/workspace-mode.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/common/Datasets/direct-lake-dataset.html",
+      "redirect": "/common/Semantic%20Model/direct-lake-sql-model.html",
       "statusCode": 301
     },
     {
@@ -118,6 +123,11 @@
     {
       "route": "/Custom-Actions.html",
       "redirect": "/te3/tutorials/creating-macros.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/FormatDax.html",
+      "redirect": "/te2/FormatDax.html",
       "statusCode": 301
     }
   ],
