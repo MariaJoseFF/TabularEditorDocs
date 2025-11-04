@@ -1,4 +1,4 @@
-﻿# [Common functionality](common-features.md)
+﻿# [Common features](common-features.md)
 ## [Power BI Desktop limitations](desktop-limitations.md)
 ## [XMLA / AS connectivity](xmla-as-connectivity.md)
 ## [Policies](policies.md)
